@@ -8,9 +8,8 @@
 
 ## 설명 :
 ![chattingStage](https://github.com/Wally0822/Csharp_ConsoleChatting/assets/111326483/122b47be-ce53-4ba3-b52c-4c33134c0c8f)
-- 멀티 채팅 모드
-- 채팅방 모드 <br>
-두개의 모드 선택가능하며, 서버와 클라이언트 각각 구현하였습니다.
+- 멀티 채팅 모드 : 여러 사용자가 동시에 같이 채팅 가능합니다.
+- 채팅방 모드 : 채팅방 이름 지정 후 개설 가능하며, 채팅방을 선택하여 채팅 가능합니다.<br>
 - Client
 ![23](https://github.com/Wally0822/Csharp_ConsoleChatting/assets/111326483/304d0307-fb6d-4c12-8605-5604ed47749f)
 - Server <br>
